@@ -1,8 +1,4 @@
-<script setup lang="ts">
-// const props = defineProps({
-//   title: String,
-// });
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <v-text-field color="primary"><slot /></v-text-field>

@@ -1,5 +1,4 @@
 <script setup lang="ts">
-
 import SalesOverview from "@/components/dashboard/SalesOverview.vue";
 import YearlyBreakup from "@/components/dashboard/YearlyBreakup.vue";
 import MonthlyEarning from "@/components/dashboard/MonthlyEarnings.vue";
