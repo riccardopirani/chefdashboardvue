@@ -73,7 +73,7 @@ const areaChart = {
                 <ArrowDownRightIcon size="20" />
               </v-avatar>
               <span class="text-subtitle-1 ml-2 font-weight-bold">+9%</span>
-              <span class="text-subtitle-1 text-muted ml-2">last year</span>
+              <span class="text-subtitle-1 text-muted ml-2">Ultimo anno</span>
             </div>
           </div>
         </v-col>

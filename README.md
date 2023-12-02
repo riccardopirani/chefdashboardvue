@@ -29,60 +29,60 @@ yarn create nuxt-app <my-project>
 ## Features :tada:
 
 1. Package manager
-    - Yarn
-    - Npm
+   - Yarn
+   - Npm
 1. Programming language
-    - JavaScript
-    - TypeScript
+   - JavaScript
+   - TypeScript
 1. UI framework:
-    - None (feel free to add one later)
-    - [Ant Design Vue](https://github.com/vueComponent/ant-design-vue)
-    - [BalmUI](https://material.balmjs.com/)
-    - [Bootstrap](https://github.com/bootstrap-vue/bootstrap-vue)
-    - [Buefy](https://buefy.org)
-    - [Chakra UI](https://github.com/chakra-ui/chakra-ui-vue)
-    - [Element](https://github.com/ElemeFE/element)
-    - [Oruga](https://oruga.io/)
-    - [Primevue/](https://www.primefaces.org/primevue/)
-    - [Tachyons](https://github.com/tachyons-css/tachyons)
-    - [Tailwind CSS](https://github.com/tailwindcss/tailwindcss)
-    - [Windi CSS](https://github.com/windicss/windicss)
-    - [Vant](https://github.com/youzan/vant)
-    - [View UI](https://www.iviewui.com/)
-    - [Vuetify](https://github.com/vuetifyjs/vuetify)
+   - None (feel free to add one later)
+   - [Ant Design Vue](https://github.com/vueComponent/ant-design-vue)
+   - [BalmUI](https://material.balmjs.com/)
+   - [Bootstrap](https://github.com/bootstrap-vue/bootstrap-vue)
+   - [Buefy](https://buefy.org)
+   - [Chakra UI](https://github.com/chakra-ui/chakra-ui-vue)
+   - [Element](https://github.com/ElemeFE/element)
+   - [Oruga](https://oruga.io/)
+   - [Primevue/](https://www.primefaces.org/primevue/)
+   - [Tachyons](https://github.com/tachyons-css/tachyons)
+   - [Tailwind CSS](https://github.com/tailwindcss/tailwindcss)
+   - [Windi CSS](https://github.com/windicss/windicss)
+   - [Vant](https://github.com/youzan/vant)
+   - [View UI](https://www.iviewui.com/)
+   - [Vuetify](https://github.com/vuetifyjs/vuetify)
 1. Template engine
-    - HTML
-    - Pug
+   - HTML
+   - Pug
 1. Nuxt.js modules:
-    - [Axios - Promise based HTTP client](https://github.com/nuxt-community/axios-module)
-    - [Progressive Web App (PWA)](https://github.com/nuxt-community/pwa-module)
-    - [Content - Git-based headless CMS](https://github.com/nuxt/content)
+   - [Axios - Promise based HTTP client](https://github.com/nuxt-community/axios-module)
+   - [Progressive Web App (PWA)](https://github.com/nuxt-community/pwa-module)
+   - [Content - Git-based headless CMS](https://github.com/nuxt/content)
 1. Linting tools:
-    - [ESLint](https://github.com/nuxt/eslint-config)
-    - [Prettier](https://github.com/prettier/prettier)
-    - [Lint staged files](https://github.com/okonet/lint-staged)
-    - [StyleLint](https://github.com/stylelint/stylelint)
-    - [Commitlint](https://github.com/conventional-changelog/commitlint)
+   - [ESLint](https://github.com/nuxt/eslint-config)
+   - [Prettier](https://github.com/prettier/prettier)
+   - [Lint staged files](https://github.com/okonet/lint-staged)
+   - [StyleLint](https://github.com/stylelint/stylelint)
+   - [Commitlint](https://github.com/conventional-changelog/commitlint)
 1. Testing framework:
-    - None
-    - [Jest](https://github.com/facebook/jest)
-    - [AVA](https://github.com/avajs/ava)
-    - [WebdriverIO](https://webdriver.io)
-    - [Nightwatch](https://nightwatchjs.org)
+   - None
+   - [Jest](https://github.com/facebook/jest)
+   - [AVA](https://github.com/avajs/ava)
+   - [WebdriverIO](https://webdriver.io)
+   - [Nightwatch](https://nightwatchjs.org)
 1. Rendering mode
-    - [Universal (SSR / Static)](https://nuxtjs.org/docs/features/rendering-modes#server-side-rendered-sites-and-static-sites)
-    - [SPA](https://nuxtjs.org/docs/features/rendering-modes#client-side-rendering-only)
+   - [Universal (SSR / Static)](https://nuxtjs.org/docs/features/rendering-modes#server-side-rendered-sites-and-static-sites)
+   - [SPA](https://nuxtjs.org/docs/features/rendering-modes#client-side-rendering-only)
 1. Deployment target
-    - [Server (Node.js hosting)](https://nuxtjs.org/docs/configuration-glossary/configuration-target)
-    - [Static (Static/JAMStack hosting)](https://nuxtjs.org/docs/configuration-glossary/configuration-target)
+   - [Server (Node.js hosting)](https://nuxtjs.org/docs/configuration-glossary/configuration-target)
+   - [Static (Static/JAMStack hosting)](https://nuxtjs.org/docs/configuration-glossary/configuration-target)
 1. Development tools
-    - [jsconfig.json](https://code.visualstudio.com/docs/languages/jsconfig)
-    - [Semantic PR](https://probot.github.io/apps/semantic-pull-requests/)
-    - [Dependabot (for GitHub only)](https://dependabot.com/)
+   - [jsconfig.json](https://code.visualstudio.com/docs/languages/jsconfig)
+   - [Semantic PR](https://probot.github.io/apps/semantic-pull-requests/)
+   - [Dependabot (for GitHub only)](https://dependabot.com/)
 1. Continuous Integration
-    - [GitHub Actions](https://github.com/features/actions)
-    - [Travis CI](https://travis-ci.com)
-    - [CircleCI](https://circleci.com)
+   - [GitHub Actions](https://github.com/features/actions)
+   - [Travis CI](https://travis-ci.com)
+   - [CircleCI](https://circleci.com)
 
 ## CLI Options
 

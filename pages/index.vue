@@ -15,7 +15,7 @@ import ProductCards from "@/components/dashboard/ProductCards.vue";
         <v-col cols="12" lg="8">
           <SalesOverview />
         </v-col>
-        <!-- Yearly Breakup / Monthly Earnings -->
+        <!-- Totale Incassi / Monthly Earnings -->
         <v-col cols="12" lg="4">
           <div class="mb-6">
             <YearlyBreakup />

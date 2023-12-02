@@ -45,7 +45,7 @@ const Chart = [38, 40, 25];
   <v-card elevation="10" class="withbg">
     <v-card-item>
       <div class="d-sm-flex align-center justify-space-between pt-sm-2">
-        <v-card-title class="text-h5">Yearly Breakup</v-card-title>
+        <v-card-title class="text-h5">Totale Incassi</v-card-title>
       </div>
       <v-row>
         <v-col cols="7" sm="7">
@@ -56,7 +56,7 @@ const Chart = [38, 40, 25];
                 <ArrowUpLeftIcon size="20" />
               </v-avatar>
               <span class="text-subtitle-1 ml-2 font-weight-bold">+9%</span>
-              <span class="text-subtitle-1 text-muted ml-2">last year</span>
+              <span class="text-subtitle-1 text-muted ml-2">Ultimo anno</span>
             </div>
             <div class="d-flex align-center mt-sm-10 mt-8">
               <h6 class="text-subtitle-1 text-muted">
