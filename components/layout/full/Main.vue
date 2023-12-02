@@ -58,7 +58,7 @@ const sDrawer = ref(true);
       <div>
         <v-btn
           class="mr-2 bg-primary"
-          href="https://adminmart.com/templates/nuxtjs/"
+          href="https://marconisoftware.com/templates/nuxtjs/"
           target="_blank"
           >Go to home</v-btn
         >

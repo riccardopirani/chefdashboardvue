@@ -1,5 +1,5 @@
 <script setup lang="ts">
-/*Call Components*/
+
 import SalesOverview from "@/components/dashboard/SalesOverview.vue";
 import YearlyBreakup from "@/components/dashboard/YearlyBreakup.vue";
 import MonthlyEarning from "@/components/dashboard/MonthlyEarnings.vue";
@@ -11,11 +11,9 @@ import ProductCards from "@/components/dashboard/ProductCards.vue";
   <v-row>
     <v-col cols="12">
       <v-row>
-        <!-- Prenotazioni -->
         <v-col cols="12" lg="8">
           <SalesOverview />
         </v-col>
-        <!-- Totale Incassi / Monthly Earnings -->
         <v-col cols="12" lg="4">
           <div class="mb-6">
             <YearlyBreakup />
@@ -24,15 +22,12 @@ import ProductCards from "@/components/dashboard/ProductCards.vue";
             <MonthlyEarning />
           </div>
         </v-col>
-        <!-- Recent transaction -->
         <v-col cols="12" lg="4">
           <RecentTransaction />
         </v-col>
-        <!-- Product performence -->
         <v-col cols="12" lg="8">
           <ProductPerformance />
         </v-col>
-        <!-- Product Cards -->
         <v-col cols="12">
           <ProductCards />
         </v-col>
@@ -44,10 +39,10 @@ import ProductCards from "@/components/dashboard/ProductCards.vue";
         <a
           flat
           variant="text"
-          href="https://adminmart.com/"
+          href="https://marconisoftware.com/"
           target="_blank"
           class="pl-1 text-primary"
-          >AdminMart.com</a
+          >marconisoftware.com</a
         >
       </p>
     </v-col>
